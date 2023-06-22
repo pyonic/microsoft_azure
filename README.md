@@ -11,3 +11,9 @@ Install SDK:
 
 Some basic commands
 - ```az vm list``` - Shows list of virtual machines
+
+# Virtual Machines
+
+When we create VM, we get a slice of real physical machine
+
+Prices by for VM regions: https://azureprice.net/regions
